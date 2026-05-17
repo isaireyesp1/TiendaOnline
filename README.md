@@ -339,27 +339,7 @@ http://localhost/TiendaOnline/
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Página principal
-![Home](https://dummyimage.com/1200x700/ededed/000000&text=PHP+MVC+Online+Store)
-
-### 🛒 Catálogo de productos
-![Products](https://dummyimage.com/1200x700/dedede/000000&text=Product+Catalog)
-
-### 📦 Carrito de compras
-![Cart](https://dummyimage.com/1200x700/cfcfcf/000000&text=Shopping+Cart)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://dummyimage.com/1200x700/bfbfbf/000000&text=Admin+Dashboard)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
