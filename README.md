@@ -425,6 +425,6 @@ Proyecto open source orientado al aprendizaje de arquitectura MVC, PHP y platafo
 
 <div align="center">
 
-### 🛒 PHP MVC Online Store — comercio electrónico moderno y escalable 🚀
+### 🛒 TiendaOnline — comercio electrónico moderno y escalable 🚀
 
 </div>
