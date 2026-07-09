@@ -19,3 +19,12 @@
 10000018|SERGIO NAVARRO|8520|14600|ACTIVO|AHORRO
 10000019|CAMILA REYES|9630|58000|ACTIVO|NOMINA
 10000020|ANDRES MENDOZA|1593|7200|ACTIVO|AHORRO
+
+Co-authored-by: isaireyesp1 <isaireyes2003p@gmail.com>
+
+
+Co-authored-by: isaireyesp1 <isaireyes2003p@gmail.com>
+
+Co-authored-by: isaireyesp1 <isaireyes2003p@gmail.com>
+
+Co-authored-by: isaireyesp1 <isaireyes2003p@gmail.com>
